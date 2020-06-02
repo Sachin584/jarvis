@@ -1,3 +1,3 @@
 # jarvis
 
-This python based project.
+This is python based project.
